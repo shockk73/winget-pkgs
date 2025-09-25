@@ -1,0 +1,22 @@
+PackageIdentifier: shockk73.wg-exclude
+PackageVersion: 1.0.0
+PackageLocale: ru-RU
+Publisher: shockk73
+PublisherUrl: https://github.com/shockk73
+PackageName: wg-exclude
+ShortDescription: Утилита для генерации AllowedIPs с «выколкой» доменов/IP (CLI + интерактивный режим).
+Description: >
+  wg-exclude — кроссплатформенная консольная утилита для управления списком доменов, IP и подсетей,
+  которые нужно исключить из маршрутизации WireGuard. Поддерживает хранение конфигурации,
+  интерактивное меню, генерацию финального AllowedIPs (IPv4).
+License: MIT
+LicenseUrl: https://github.com/shockk73/wg-exclude/blob/main/LICENSE
+Tags:
+  - wireguard
+  - allowedips
+  - vpn
+  - cli
+  - networking
+ReleaseNotesUrl: https://github.com/shockk73/wg-exclude/releases/tag/v1.0.0
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
